@@ -1,4 +1,5 @@
 # expert-garbanzo
-it's Friday afternoon - but I don't want to leave yet.
+
+it's Friday afternoon - and all is quiet!
 
 A good time to be learning Github on Trailhead
